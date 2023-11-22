@@ -1,1 +1,1 @@
-# Wether-prediction-using-Machine-Learning
+# Predict the weather using Machine Learning
